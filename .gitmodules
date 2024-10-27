@@ -1,6 +1,12 @@
+[submodule "netflix"]
+	path = netflix
+	url = git@github.com:KhulnaSoft/.dotfiles-netflix.git
+[submodule "personal"]
+	path = personal
+	url = git@github.com:KhulnaSoft/.dotfiles-personal.git
 [submodule "tree-sitter/.config/tree-sitter/tree-sitter-lua"]
 	path = tree-sitter/.config/tree-sitter/tree-sitter-lua
-	url = https://github.com/Azganoth/tree-sitter-lua.git
+	url = git@github.com:Azganoth/tree-sitter-lua.git
 [submodule "nvim/.config/nvim"]
 	path = nvim/.config/nvim
-	url = https://github.com/khulnasoft/init.lua.git
+	url = git@github.com:KhulnaSoft/init.lua.git
